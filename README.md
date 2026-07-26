@@ -25,13 +25,6 @@ The frontend already points at `http://localhost:5000` by default
 the backend URL.
 
 ## 2. Try it
-
-Go to `http://localhost:5173`. Demo credentials are shown on the login
-screen itself:
-```
-asha@solace.app / Solace@123
-dev@solace.app  / Password1
-```
 Any other combination returns "Invalid email or password." from the backend.
 
 ## 3. Project structure
